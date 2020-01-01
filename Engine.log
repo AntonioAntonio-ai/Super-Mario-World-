@@ -1,0 +1,8 @@
+﻿  Blocks.cpp
+  Game.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mario.cpp
+  Rect.cpp
+C:\Users\Labrucherie\Desktop\Atlas\C++\Super Mario World++\Engine\Rect.cpp(23): warning C4715: 'Rect::isColliding': not all control paths return a value
+  Engine.vcxproj -> C:\Users\Labrucherie\Desktop\Atlas\C++\Super Mario World++\x64\Debug\Engine.exe
